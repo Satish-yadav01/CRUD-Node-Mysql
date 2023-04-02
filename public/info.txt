@@ -1,0 +1,13 @@
+Model: Create a database schema for the blog and define a model for the blog in NodeJS using an Object Relational Mapping (ORM) tool like Sequelize.
+
+Controller: Create a controller for the blog that defines the functions to handle the CRUD operations (create, read, update, and delete).
+
+View: Create a view for the blog that defines the layout and design of the blog using HTML, CSS, and JavaScript.
+
+Create: To create a new blog post, define a route in the controller that handles the HTTP POST request and creates a new blog post in the database using the model.
+
+Read: To read a blog post, define a route in the controller that handles the HTTP GET request and retrieves the blog post from the database using the model.
+
+Update: To update a blog post, define a route in the controller that handles the HTTP PUT request and updates the blog post in the database using the model.
+
+Delete: To delete a blog post, define a route in the controller that handles the HTTP DELETE request and deletes the blog post from the database using the model.
